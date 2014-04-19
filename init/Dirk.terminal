@@ -180,6 +180,8 @@
 	<integer>1</integer>
 	<key>FontWidthSpacing</key>
 	<integer>1</integer>
+	<key>Linewrap</key>
+	<true/>
 	<key>ProfileCurrentVersion</key>
 	<real>2.02</real>
 	<key>SelectionColor</key>
@@ -227,7 +229,7 @@
 	<key>WindowTitle</key>
 	<string></string>
 	<key>columnCount</key>
-	<integer>159</integer>
+	<integer>79</integer>
 	<key>name</key>
 	<string>Dirk</string>
 	<key>rowCount</key>
